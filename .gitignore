@@ -1,3 +1,8 @@
 node_modules/
 .env
 package-lock.json
+
+
+err.log
+
+out.log
